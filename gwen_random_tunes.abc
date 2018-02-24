@@ -235,8 +235,8 @@ M:2/2
 Q:1/2=90
 K:C
 |: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
-   eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
-   eggg ageg | gede cAAA | GEEE GAcd | edcB c3A ||
+|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
+   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
 
 X:11
 T:Sporting Nell
@@ -262,4 +262,20 @@ K:Ador
    A2GA cAAA | d^cde f2fg | afge fde^c |1 dfed cAdc :|2 dfed cAAA |
 |: eggg ed^cd | efge cBcd | eggg aage | dfed cAAA | 
    eggg aggg | fffe defg | afge fde^c |1 dfed cAAA :|2 dfed cAdc |
+
+X:13
+T:The White Petticoat
+D:Solas: Solas (1996)
+Z:Gwen
+N:Joué avec Benjamin le flûtiste en session après
+N:le spectacle de John à la salle commune
+N:le 2018-01-26.
+R:jig
+M:6/8
+Q:3/8=120
+K:Em
+|: Bed cBA | GFE B,EG | FBB cBB | eBB cBA |
+   Bed cBA | GFE B,EG | FBB cBA | GED E3 :|
+|: gec Gce | gaf gec | cBA EAc | Be^d eBG |
+   FBB GBB | FBA GFE | B,EG cBA | GED E3 :|
 
