@@ -1,0 +1,386 @@
+X:1
+T:The Trip To Nenagh (x4)
+Z:https://thesession.org/tunes/831
+R:reel
+M:4/4
+L:1/8
+Q:1/2=90
+K:Cmix
+c2GF EC~C2|G,CEG cBGF|GccB c_edc|B2FB DBFB|
+cBGF EC~C2|G,CEG cBGF|Gc~c2 GCEG|FD=B,D DCC2:|
+|:c2ec Gcec|fddc =BcdB|c2_BG ECCD|EFGA ~_B3A|
+Gc~c2 Gcec|=Bcde fdef|g2dc =BcdB|c_BGF ECC2:| 
+
+X:2
+T:Maggie Pickin's (x3)
+D:Dan Brouder: The Lark's Air (2011)
+Z:Gwenaël Lambrouin, 2016-11-15
+I:Morceau en Ab sur le disque
+R:fling
+M:2/2
+Q:1/2=80
+K:G
+|: GEDE GAB2 | (3cBA (3BAG AGEF | GEDE GABd |1 (3efg dB ABG2 :|2 (3efg dB ABGB |
+|: (3cBc ec (3BAB dB | AcBG AGE2 | GEDE GABd | (3efg dB ABG2 :|
+%
+|: GEDE GAB2 | (3cBA (3BAG AGEF | GEDE GABd |1 (3efg dB ABG2 :|2 (3efg dB ABGB |
+|: (3cBc ec (3BAB dB | AcBG AGE2 | GEDE GABd | (3efg dB ABG2 :|
+%
+|: GEDE GAB2 | (3cBA (3BAG AGEF | GEDE GABd |1 (3efg dB ABG2 :|2 (3efg dB ABGB |
+|: (3cBc ec (3BAB dB | AcBG AGE2 | GEDE GABd | (3efg dB ABG2 :|
+%
+
+X:3
+T:Turn Hill (x3)
+D:Dan Brouder: The Lark's Air (2011)
+Z:Gwenaël Lambrouin, 2016-11-19
+I:Morceau en Ab sur le disque
+R:fling
+M:2/2
+Q:1/2=80
+K:G
+|: (3efg ed Bdg2 | GBdB GBd2 | (3efg ed Bdga |1 gede BAag :|2 gede BAA2 |
+|: agab aga2 | gega geg2 | agab agab |1 gede BAA2 :|2 gede BAag |
+%
+|: (3efg ed Bdg2 | GBdB GBd2 | (3efg ed Bdga |1 gede BAag :|2 gede BAA2 |
+|: agab aga2 | gega geg2 | agab agab |1 gede BAA2 :|2 gede BAag |
+%
+|: (3efg ed Bdg2 | GBdB GBd2 | (3efg ed Bdga |1 gede BAag :|2 gede BAA2 |
+|: agab aga2 | gega geg2 | agab agab |1 gede BAA2 :|2 gedB BAGB | A8 ||
+
+X:4
+T:Maggie Pickin's (x3) - Turn Hill (x3)
+D:Dan Brouder: The Lark's Air (2011)
+R:fling
+M:2/2
+Q:1/2=80
+K:G
+|: GEDE GAB2 | (3cBA (3BAG AGEF | GEDE GABd |1 (3efg dB ABG2 :|2 (3efg dB ABGB |
+|: (3cBc ec (3BAB dB | AcBG AGE2 | GEDE GABd | (3efg dB ABG2 :|
+%
+|: GEDE GAB2 | (3cBA (3BAG AGEF | GEDE GABd |1 (3efg dB ABG2 :|2 (3efg dB ABGB |
+|: (3cBc ec (3BAB dB | AcBG AGE2 | GEDE GABd | (3efg dB ABG2 :|
+%
+|: GEDE GAB2 | (3cBA (3BAG AGEF | GEDE GABd |1 (3efg dB ABG2 :|2 (3efg dB ABGB |
+|: (3cBc ec (3BAB dB | AcBG AGE2 | GEDE GABd | (3efg dB ABG2 :|
+%
+% Turn Hill
+%
+|: (3efg ed Bdg2 | GBdB GBd2 | (3efg ed Bdga |1 gede BAag :|2 gede BAA2 |
+|: agab aga2 | gega geg2 | agab agab |1 gede BAA2 :|2 gede BAag |
+%
+|: (3efg ed Bdg2 | GBdB GBd2 | (3efg ed Bdga |1 gede BAag :|2 gede BAA2 |
+|: agab aga2 | gega geg2 | agab agab |1 gede BAA2 :|2 gede BAag |
+%
+|: (3efg ed Bdg2 | GBdB GBd2 | (3efg ed Bdga |1 gede BAag :|2 gede BAA2 |
+|: agab aga2 | gega geg2 | agab agab |1 gede BAA2 :|2 gedB BAGB | A8 ||
+
+X:5
+T:The Old Bush (x3)
+D:Matt Molloy & Sean Keane: Contentment is Wealth (1985)
+Z:Gwenaël Lambrouin, 2017-02, d'après l'interprétation de Cyrille Gaillard
+R:reel
+M:2/2
+Q:1/2=80
+K:Ador
+% les do sont naturalisés lors des reprises pour contourner
+% un bug lors du playback avec abcj
+|: A2GA cAAA | d^cde fde=c | A2GA cAAA | dfed cAdc | 
+   A2GA cAAA | d^cde f2fg | afge fde^c |1 dfed =cAd=c :|2 dfed =cAAA |
+|: eggg ed^cd | efge cBcd | eggg aage | dfed cAAA | 
+   eggg aggg | fffe defg | afge fde^c |1 dfed =cAAA :|2 dfed =cAd=c |
+%
+|: A2GA cAAA | d^cde fde=c | A2GA cAAA | dfed cAdc | 
+   A2GA cAAA | d^cde f2fg | afge fde^c |1 dfed =cAd=c :|2 dfed =cAAA |
+|: eggg ed^cd | efge cBcd | eggg aage | dfed cAAA | 
+   eggg aggg | fffe defg | afge fde^c |1 dfed =cAAA :|2 dfed =cAd=c |
+%
+|: A2GA cAAA | d^cde fde=c | A2GA cAAA | dfed cAdc | 
+   A2GA cAAA | d^cde f2fg | afge fde^c |1 dfed =cAd=c :|2 dfed =cAAA |
+|: eggg ed^cd | efge cBcd | eggg aage | dfed cAAA | 
+   eggg aggg | fffe defg | afge fde^c |1 dfed =cAAA :|2 dfed =cAd=c |
+%
+
+X:6
+T:Johnny O'Leary's
+Z:François 25.04.2012 from Soazig
+M:6/8
+L:1/8
+Q:3/8=100
+R:jig
+K:Edor
+%| E6 | E3 E3 |
+%
+|: E3 EFD | EFD EFD | E3 EFG | A2 G FED |
+E3 EFD | EFD EFG | ABA DFG | A2 G FED :|
+|: B3 EFA | B2 A Bcd | B3 EFG | A2 G FED |
+B3 EFA | B2 A Bcd | ABA DFG | A2 G FED :|
+|: g2e fed | edc dcB | B2E EFG | A2G FED |
+gfe fed | edc d2B | ABA DFG | A2G FED :|
+
+X:11
+T:Sporting Nell
+D:Mick O'Brien: May Morning Dew (1996)
+Z:GwenaÃ«l Lambrouin, 2016-12, d'aprÃ¨s l'interprÃ©tation de Cyrille 
+R:reel
+M:2/2
+K:Dmix
+Q:1/2=90
+| C8 | C4 C4 |
+%
+|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
+K:Amix
+  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
+  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
+%
+K:Dmix
+|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
+K:Amix
+  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
+  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
+%
+K:Dmix
+|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
+K:Amix
+  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
+  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
+%
+K:Dmix
+|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
+K:Amix
+  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
+  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
+%
+K:Dmix
+|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
+K:Amix
+  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
+  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
+%
+
+X:10
+T:Fisherman's Lilt
+D:Bothy Band: Out of Wind Into the Sun
+Z:GwenaÃ«l Lambrouin, 2016-12, d'aprÃ¨s l'interprÃ©tation de Cyrille 
+R:reel
+M:2/2 
+Q:1/2=90
+K:C
+| A8 | A4 A4 |
+%
+|: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
+|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
+   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
+%
+|: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
+|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
+   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
+%
+|: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
+|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
+   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
+%
+|: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
+|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
+   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
+%
+|: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
+|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
+   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
+%
+
+X:12
+T:Sporting Nell (x4) / Fisherman's Lilt (x2) / Boy in the Boat (x3)
+R:reel
+M:2/2
+Q:1/2=90
+%
+% tick
+%
+K:Dmix
+| C8 | C4 C4 |
+%
+% Sporting Nell (x4)
+%
+% #1
+K:Dmix
+|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
+K:Amix
+  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
+  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
+% #2
+K:Dmix
+|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
+K:Amix
+  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
+  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
+% #3
+K:Dmix
+|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
+K:Amix
+  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
+  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
+% #4
+K:Dmix
+|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
+K:Amix
+  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
+  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
+%
+% Fisherman's Lilt (x2)
+%
+K:C
+% #1
+|: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
+|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
+   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
+% #2
+|: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
+|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
+   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
+%
+% Boy in the Boat (x3)
+%
+K:D
+% #1
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE DEFG |
+% #2
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE DEFG |
+% #3
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE D4 |
+%
+
+X:13
+T:The White Petticoat
+D:Solas: Solas (1996)
+R:jig
+M:6/8
+Q:3/8=120
+K:Em
+| E6 | E3 E3 |
+%
+|: Bed cBA | GFE B,EG | FBB cBB | eBB cBA |
+   Bed cBA | GFE B,EG | FBB cBA | GED E3 :|
+|: gec Gce | gaf gec | cBA EAc | Be^d eBG |
+   FBB GBB | FBA GFE | B,EG cBA | GED E3 :|
+%
+|: Bed cBA | GFE B,EG | FBB cBB | eBB cBA |
+   Bed cBA | GFE B,EG | FBB cBA | GED E3 :|
+|: gec Gce | gaf gec | cBA EAc | Be^d eBG |
+   FBB GBB | FBA GFE | B,EG cBA | GED E3 :|
+%
+|: Bed cBA | GFE B,EG | FBB cBB | eBB cBA |
+   Bed cBA | GFE B,EG | FBB cBA | GED E3 :|
+|: gec Gce | gaf gec | cBA EAc | Be^d eBG |
+   FBB GBB | FBA GFE | B,EG cBA | GED E3 :|
+%
+
+X:14
+T:The Gooseberry Bush (x3)
+R:Reel
+D:Matt Molloy & Sean Keane: Contentment is Wealth (1985)
+Z:Gwen 2018-05-31
+M:2/2
+%Q:1/2=92
+Q:1/2=80
+K:Dmix
+| A4 A4 | A4 A4 |
+%
+|: ADFD EFGB | AGAB c2AG | ABcA dcAG | FGGF GGGA |
+   D2FD EFGB | ABcA d2de | fdd^c dfed |1 =cAGE EDD2 :|2 cAGE FDD2
+|: Adde fded | c2cd cAG2 | AAAF GEEE | FGAB cAG2 |
+   Ad^cd fded | c2cd cAG2 | ABcA dcAG | ABcA d2dc :|
+|: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
+   d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
+%
+|: ADFD EFGB | AGAB c2AG | ABcA dcAG | FGGF GGGA |
+   D2FD EFGB | ABcA d2de | fdd^c dfed |1 =cAGE EDD2 :|2 cAGE FDD2
+|: Adde fded | c2cd cAG2 | AAAF GEEE | FGAB cAG2 |
+   Ad^cd fded | c2cd cAG2 | ABcA dcAG | ABcA d2dc :|
+|: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
+   d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
+%
+|: ADFD EFGB | AGAB c2AG | ABcA dcAG | FGGF GGGA |
+   D2FD EFGB | ABcA d2de | fdd^c dfed |1 =cAGE EDD2 :|2 cAGE FDD2
+|: Adde fded | c2cd cAG2 | AAAF GEEE | FGAB cAG2 |
+   Ad^cd fded | c2cd cAG2 | ABcA dcAG | ABcA d2dc :|
+|: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
+   d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d4 ||
+%
+
+X:15
+T:Kamikaze Pigeon (x3)
+R:Reel
+C:Alan Kelly
+D:The Alan Kelly Gang: Small Towns and Famous Nights (2011)
+Z:Gwen 2018-06-03
+M:2/2
+%Q:1/2=107
+Q:1/2=80
+K:D
+| D4 D4 | D4 D4 |
+%
+|: d2fd edfe | d2fd edBA | d2fd edBA | dBB/B/B gBfe |
+   d3f edfe | dfed edBA | bfff afdB |1 ABdf edBc :|2 ABdf eAcd
+|: e4 e3f | eBde faaf | e2de egag | fBB/B/B dAB/c/d |
+   e3e- edfd | eBde faaf |1 b4 afba |
+   fedB eABd :|2 bfff afba | fedB edBc ||
+%
+|: d2fd edfe | d2fd edBA | d2fd edBA | dBB/B/B gBfe |
+   d3f edfe | dfed edBA | bfff afdB |1 ABdf edBc :|2 ABdf eAcd
+|: e4 e3f | eBde faaf | e2de egag | fBB/B/B dAB/c/d |
+   e3e- edfd | eBde faaf |1 b4 afba |
+   fedB eABd :|2 bfff afba | fedB edBc ||
+%
+|: d2fd edfe | d2fd edBA | d2fd edBA | dBB/B/B gBfe |
+   d3f edfe | dfed edBA | bfff afdB |1 ABdf edBc :|2 ABdf eAcd
+|: e4 e3f | eBde faaf | e2de egag | fBB/B/B dAB/c/d |
+   e3e- edfd | eBde faaf |1 b4 afba |
+   fedB eABd :|2 bfff afba | fedB edBc | D4- D4 ||
+
+X:16
+T:The Gooseberry Bush - Partie C
+R:Reel
+D:Matt Molloy & Sean Keane: Contentment is Wealth (1985)
+Z:Gwen 2018-05-31
+M:2/2
+%Q:1/2=92
+Q:1/2=80
+K:Dmix
+| A4 A4 | A4 A4 |
+%
+%|: ADFD EFGB | AGAB c2AG | ABcA dcAG | FGGF GGGA |
+%   D2FD EFGB | ABcA d2de | fdd^c dfed |1 =cAGE EDD2 :|2 cAGE FDD2
+%|: Adde fded | c2cd cAG2 | AAAF GEEE | FGAB cAG2 |
+%   Ad^cd fded | c2cd cAG2 | ABcA dcAG | ABcA d2dc :|
+|: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
+   d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
+%
+|: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
+   d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
+%
+|: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
+   d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
+%
+|: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
+   d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
+%
+|: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
+   d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
+%
+|: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
+   d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
+%
+|: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
+   d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
+%
+
