@@ -1,11 +1,14 @@
-
 \documentclass[a4paper,12pt]{article}
+%\documentclass[a4paper,12pt]{book}
 
 \usepackage[frenchb]{babel}
 \usepackage[T1]{fontenc}
-%\usepackage[latin1]{inputenc}
-%\usepackage{ucs}
 \usepackage[utf8]{inputenc}
+
+% The geometry package provides a simple way to customize the page layout of your document.
+\usepackage[hmargin=2cm]{geometry}
+
+\usepackage{float}
 
 \usepackage{syntonly}
 %\syntaxonly % A commenter pour générer réellement le document
@@ -26,9 +29,7 @@
 \maketitle
 
 % Quelques accords communs
-\input{../metadata/guitar_chords}
-
-%\section{Introduction}
+\input{../../bookspecs/guitar_chords}
 
 Une compilation des airs de musique irlandaise que j'ai appris à la
 flûte, et (ou) les airs pour lesquels j'ai cherché un accompagnement à la
@@ -37,14 +38,13 @@ guitare.
 L'intérêt est de pouvoir réviser régulièrement les morceaux, et de retrouver
 rapidement un air ``oublié''.
 
+\pagebreak
 
 %%INSERT_TUNES
 
-
-\pagebreak
-\tableofcontents
-
+\clearpage
 
 %%INSERT_INDEX
 
 \end{document}
+

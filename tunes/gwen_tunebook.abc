@@ -279,25 +279,25 @@ K:Em
 |: gec Gce | gaf gec | cBA EAc | Be^d eBG |
    FBB GBB | FBA GFE | B,EG cBA | GED E3 :|
 
-X:14
-T: The Rose In The Heather
-R: jig
-Z:https://thesession.org/tunes/447
-M: 6/8
-L: 1/8
-Q: 3/8=90
-K: Dmaj
-D6|D3 D3|
-%
-|: D2F EDB,|DFA BAF|ABd ede|fdB AFE|
-~F3 EFE|DFA Bcd|edB AFE|FDD D3:|
-|:fdB ABd|faa afd|~g3 fed|Bee ede|fdB ABd|
-faa afa|baf gfe|1 fdd d2e:|2 fdB AFE||
-%"Variations:"
-~F3 EFE|DFA BAF|ABd ede|fdB AFE|
-D2F EDB,|DFA BAF|AdB AFE|1 FDD D3:|2 FDD D2e||
-|:fdB AFA|dfa afd|~g3 fed|Bee ede|
-fdB AFA|dfa afa|baf gfe|1 fdd d2e:|2 fdB AFE|| 
+%X:14
+%T: The Rose In The Heather
+%R: jig
+%Z:https://thesession.org/tunes/447
+%M: 6/8
+%L: 1/8
+%Q: 3/8=90
+%K: Dmaj
+%D6|D3 D3|
+%%
+%|: D2F EDB,|DFA BAF|ABd ede|fdB AFE|
+%~F3 EFE|DFA Bcd|edB AFE|FDD D3:|
+%|:fdB ABd|faa afd|~g3 fed|Bee ede|fdB ABd|
+%faa afa|baf gfe|1 fdd d2e:|2 fdB AFE||
+%%"Variations:"
+%~F3 EFE|DFA BAF|ABd ede|fdB AFE|
+%D2F EDB,|DFA BAF|AdB AFE|1 FDD D3:|2 FDD D2e||
+%|:fdB AFA|dfa afd|~g3 fed|Bee ede|
+%fdB AFA|dfa afa|baf gfe|1 fdd d2e:|2 fdB AFE|| 
 
 X:15
 T:The Gooseberry Bush
