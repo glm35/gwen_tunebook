@@ -14,7 +14,7 @@ Gc~c2 Gcec|=Bcde fdef|g2dc =BcdB|c_BGF ECC2:|
 X:2
 T:Maggie Pickin's (x3)
 D:Dan Brouder: The Lark's Air (2011)
-Z:Gwena�l Lambrouin, 2016-11-15
+Z:Gwenaël Lambrouin, 2016-11-15
 I:Morceau en Ab sur le disque
 R:fling
 M:2/2
@@ -33,7 +33,7 @@ K:G
 X:3
 T:Turn Hill (x3)
 D:Dan Brouder: The Lark's Air (2011)
-Z:Gwena�l Lambrouin, 2016-11-19
+Z:Gwenaël Lambrouin, 2016-11-19
 I:Morceau en Ab sur le disque
 R:fling
 M:2/2
@@ -78,12 +78,12 @@ K:G
 X:5
 T:The Old Bush (x3)
 D:Matt Molloy & Sean Keane: Contentment is Wealth (1985)
-Z:Gwena�l Lambrouin, 2017-02, d'apr�s l'interpr�tation de Cyrille Gaillard
+Z:Gwenaël Lambrouin, 2017-02, d'après l'interprétation de Cyrille Gaillard
 R:reel
 M:2/2
 Q:1/2=80
 K:Ador
-% les do sont naturalis�s lors des reprises pour contourner
+% les do sont naturalisés lors des reprises pour contourner
 % un bug lors du playback avec abcj
 |: A2GA cAAA | d^cde fde=c | A2GA cAAA | dfed cAdc | 
    A2GA cAAA | d^cde f2fg | afge fde^c |1 dfed =cAd=c :|2 dfed =cAAA |
@@ -103,7 +103,7 @@ K:Ador
 
 X:6
 T:Johnny O'Leary's
-Z:Fran�ois 25.04.2012 from Soazig
+Z:François 25.04.2012 from Soazig
 M:6/8
 L:1/8
 Q:3/8=100
@@ -121,7 +121,7 @@ gfe fed | edc d2B | ABA DFG | A2G FED :|
 X:11
 T:Sporting Nell
 D:Mick O'Brien: May Morning Dew (1996)
-Z:Gwenaël Lambrouin, 2016-12, d'après l'interprétation de Cyrille 
+Z:GwenaÃ«l Lambrouin, 2016-12, d'aprÃ¨s l'interprÃ©tation de Cyrille 
 R:reel
 M:2/2
 K:Dmix
@@ -161,7 +161,7 @@ K:Amix
 X:10
 T:Fisherman's Lilt
 D:Bothy Band: Out of Wind Into the Sun
-Z:Gwenaël Lambrouin, 2016-12, d'après l'interprétation de Cyrille 
+Z:GwenaÃ«l Lambrouin, 2016-12, d'aprÃ¨s l'interprÃ©tation de Cyrille 
 R:reel
 M:2/2 
 Q:1/2=90
@@ -383,4 +383,232 @@ K:Dmix
 |: Adde fd^cd | efge aged | ^cdef g2ef | ggge d^cAd |
    d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
 %
+
+X:17
+T:The Earl's Chair (répété)
+C:Pato (Packie) Maloney
+I:tune composed Pato (Packie) Maloney of Woodford, Co Galway , an uncle of Mike Rafferty (http://www.thesession.org/tunes/display/221)
+S:Jack Coen
+M:4/4
+L:1/8
+Q:1/2=80
+R:Reel
+K:Dmaj
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+
+X:18
+T:The Earl's Chair (partie A)
+C:Pato (Packie) Maloney
+I:tune composed Pato (Packie) Maloney of Woodford, Co Galway , an uncle of Mike Rafferty (http://www.thesession.org/tunes/display/221)
+S:Jack Coen
+M:4/4
+L:1/8
+Q:1/2=40
+R:Reel
+K:Dmaj
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
+%
+
+X:19
+T:The Earl's Chair (partie B)
+C:Pato (Packie) Maloney
+I:tune composed Pato (Packie) Maloney of Woodford, Co Galway , an uncle of Mike Rafferty (http://www.thesession.org/tunes/display/221)
+S:Jack Coen
+M:4/4
+L:1/8
+Q:1/2=40
+R:Reel
+K:Dmaj
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+%
+
+X:20
+T:Boy in the Boat
+R:reel
+M:2/2
+Q:1/2=90
+%
+% tick
+%
+K:D
+| A8 | A4 A4 |
+% #1
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE DEFG |
+% #2
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE DEFG |
+% #3
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE D4 |
+%
+% #4
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE DEFG |
+% #5
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE DEFG |
+% #6
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE D4 |
+%
+% #7
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE DEFG |
+% #8
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE DEFG |
+% #9
+|: ABAF DFAF | GFEF G2FG | ADED ADED | AFGE DEFG |
+   ABAF DFAF | GFEF G2FG | AFA=c BGBd |1 cAGE DEFG :|2 cAGE D2d2
+|: cded cAAA | cAdB cAAd | cded cAAd | cAGE EDD2 |
+   cded cAAA | cAdB cAB/c/d | effd eged |1 cAGE EDD2 :|2 cAGE D4 |
+%
+
+X:12
+T:Sporting Nell -> Fisherman's Lilt (x2)
+R:reel
+M:2/2
+Q:1/2=100
+%
+% tick
+%
+K:Dmix
+| C8 | C4 C4 |
+%
+% Sporting Nell (x1)
+%
+% #1
+K:Dmix
+|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
+K:Amix
+  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
+  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
+%
+% Fisherman's Lilt (x2)
+%
+K:C
+% #1
+|: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
+|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
+   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
+% #2
+|: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
+|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
+   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
 
