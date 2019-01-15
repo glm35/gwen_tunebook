@@ -8,16 +8,17 @@ L:1/8
 Q:1/2=80
 R:Reel
 K:Dmaj
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+|: B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
+   B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd
+|: e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
+   e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA :|
 
 X:4
 T:On Book Hill: Quail Dove (or Debut Kill)
 D:Brendan Begley & Caoimhín Ó Raghallaigh: A Moment of Madness (2010)
 R:polka
 M:2/4
+L:1/8
 K:D
 % Normalement: c'est en Eb
 |: DE FG | Ad cA | GE FE | D2 DE | FA GC | ED D2 :|
@@ -26,7 +27,7 @@ K:D
    d2 cA | GE FE | D>A, DE | FA GC | ED D2 :|
 
 X:5
-T:Paddy Fahey's #20
+T:Paddy Fahey's no20
 D:Éamonn Coyne & Kris Drever: Honk Toot Suite (2006)
 R:reel
 M:2/2
@@ -191,7 +192,7 @@ K:D
 X:17
 T:The Rose in the Heather
 N:Cillian O'Dalaigh lesson, flute played by Kirsten ???
-R:Reel
+R:Jig
 Z:Gwen 2018-06-10
 M:6/8
 Q:3/8=90
