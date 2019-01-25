@@ -1,3 +1,5 @@
+%%abc-charset utf-8
+
 X:1
 T:The Earl's Chair
 C:Pato (Packie) Maloney
@@ -104,43 +106,6 @@ K:D
  ABde fdef | fgfd edB/c/d | ABde fzdf | afdf efdB |
  ABde fzab | gggf fedB | ABde f2z2 | afdf efdB | 
  A8 || 
-
-X:10
-T:Fisherman's Lilt
-D:Bothy Band: Out of Wind Into the Sun
-Z:Gwenaël Lambrouin, 2016-12, d'après l'interprétation de Cyrille 
-R:reel
-M:2/2 
-Q:1/2=90
-K:C
-|: GGGE GAcd | edcB cAAA | GEEE GAcd |1 edcB c3A :|2 edcB c3d | 
-|: eggg ageg | gede cAAA | eggg eaaa | gaag a3g | 
-   eggg ageg | gede cAAA | GEEE GAcd |1 edcB c3d :|2 edcB c3A |
-
-X:11
-T:Sporting Nell
-D:Mick O'Brien: May Morning Dew (1996)
-Z:Gwenaël Lambrouin, 2016-12, d'après l'interprétation de Cyrille 
-R:reel
-M:2/2
-K:Dmix
-|: ADED A2dc | ABAG EFG2 | ADED A2dc |1 AcGE EDEG :|2 AcGE EDD2 | 
-K:Amix
-  cdec d2ed | cdef gedB | cdec dfed | cAGE EDD2 |
-  cdec dfed | cdef g2gd | eaag efd=c | ABAG EFG2 ||
-
-X:12
-T:The Old Bush
-D:Matt Molloy & Sean Keane: Contentment is Wealth (1985)
-Z:Gwenaël Lambrouin, 2017-02, d'après l'interprétation de Cyrille Gaillard
-R:reel
-M:2/2
-Q:1/2=80
-K:Ador
-|: A2GA cAAA | d^cde fde=c | A2GA cAAA | dfed cAdc | 
-   A2GA cAAA | d^cde f2fg | afge fde^c |1 dfed cAdc :|2 dfed cAAA |
-|: eggg ed^cd | efge cBcd | eggg aage | dfed cAAA | 
-   eggg aggg | fffe defg | afge fde^c |1 dfed cAAA :|2 dfed cAdc |
 
 X:13
 T:The White Petticoat
