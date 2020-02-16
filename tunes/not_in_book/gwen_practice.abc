@@ -393,7 +393,7 @@ I:tune composed Pato (Packie) Maloney of Woodford, Co Galway , an uncle of Mike 
 S:Jack Coen
 M:4/4
 L:1/8
-Q:1/2=80
+Q:1/2=100
 R:Reel
 K:Dmaj
 B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
@@ -647,4 +647,30 @@ K:Dmaj
    e2ef dBB/B/B | gBB/B/B defg | afbf afeg | fedB ADFA :|
 %
 B8 ||
+
+X:22
+T:The Rose in the Heather (x3)
+N:Cillian O'Dalaigh lesson, flute played by Kirsten Allstaff
+R:Jig
+Z:Gwen 2018-06-10
+M:6/8
+Q:3/8=90
+K:D
+| A3 A3 | A3 A3 |
+%
+|: FFF EFE | DFA BAF | ABd e2e | fdB AFE |
+   D2F EDE | D2A BAF | B/c/dB AFE | FDD D3 :|
+|: fdB ABd | faa afd | geg fff | edB A2D |
+   FDB AB/c/d | f2a afa | bag gae | fdc d3 :|
+%
+|: FFF EFE | DFA BAF | ABd e2e | fdB AFE |
+   D2F EDE | D2A BAF | B/c/dB AFE | FDD D3 :|
+|: fdB ABd | faa afd | geg fff | edB A2D |
+   FDB AB/c/d | f2a afa | bag gae | fdc d3 :|
+%
+|: FFF EFE | DFA BAF | ABd e2e | fdB AFE |
+   D2F EDE | D2A BAF | B/c/dB AFE | FDD D3 :|
+|: fdB ABd | faa afd | geg fff | edB A2D |
+   FDB AB/c/d | f2a afa | bag gae | fdc d3 :|
+
 

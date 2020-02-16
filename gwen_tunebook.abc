@@ -157,33 +157,16 @@ K:D
 
 X:17
 T:The Rose in the Heather
-N:Cillian O'Dalaigh lesson, flute played by Kirsten ???
+N:Cillian O'Dalaigh lesson, flute played by Kirsten Allstaff
 R:Jig
 Z:Gwen 2018-06-10
 M:6/8
 Q:3/8=90
 K:D
 |: FFF EFE | DFA BAF | ABd e2e | fdB AFE |
-   D2F EDE | D2A BAF | B/c/d BAF | EFD DD2 :|
-%X:18
-%T: The Rose In The Heather
-%R: jig
-%Z:https://thesession.org/tunes/447
-%M: 6/8
-%L: 1/8
-%Q: 3/8=90
-%K: Dmaj
-%D6|D3 D3|
-%%
-%|: D2F EDB,|DFA BAF|ABd ede|fdB AFE|
-%~F3 EFE|DFA Bcd|edB AFE|FDD D3:|
-%|:fdB ABd|faa afd|~g3 fed|Bee ede|fdB ABd|
-%faa afa|baf gfe|1 fdd d2e:|2 fdB AFE||
-%%"Variations:"
-%~F3 EFE|DFA BAF|ABd ede|fdB AFE|
-%D2F EDB,|DFA BAF|AdB AFE|1 FDD D3:|2 FDD D2e||
-%|:fdB AFA|dfa afd|~g3 fed|Bee ede|
-%fdB AFA|dfa afa|baf gfe|1 fdd d2e:|2 fdB AFE|| 
+   D2F EDE | D2A BAF | B/c/dB AFE | FDD D3 :|
+|: fdB ABd | faa afd | geg fff | edB A2D |
+   FDB AB/c/d | f2a afa | bag gae | fdc d3 :|
 
 X:18
 T:The Exile's Jig
@@ -223,4 +206,15 @@ K:Eb
   B,EED EFED | C2FE FAGF | DEEC B,EEB, | GAGF E2ED :|
 |: E2GE BEGc | BGFE DEED | E2GE BEGc | BGFE DB,DF |
    E2GE BEGc | BGFE DFFF | GBBB Gccc | BGF/G/A GEED :|
+
+X:21
+T:An Léimras (G)
+R:Reel
+M:2/2
+Q:1/2=82
+K:Gmaj
+|: G2GF GAGF | E2AG AcBA | FGGE D2GD | EAAG AcBA |
+DGGF GAGF | E2AG AcBA | FGGE DGGD | BcBA G2GF :|
+|: G2BG dGBe | dBAG FGGF | G2BG dGBe | dBAG FDFA |
+G2BG dGBe | dBAG FAAA | Bddd Beee | dBA/2B/2c BGGF :|
 
