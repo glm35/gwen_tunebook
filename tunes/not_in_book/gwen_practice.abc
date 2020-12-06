@@ -386,66 +386,50 @@ K:Dmix
    d2^cd GAAG | FGAB c2AG | ABcA dcAG |1 ABcA d2dc :|2 ABcA d2dB ||
 %
 
-X:17
-T:The Earl's Chair (répété)
+X:1
+T:The Earl's Chair (x6)
 C:Pato (Packie) Maloney
-I:tune composed Pato (Packie) Maloney of Woodford, Co Galway , an uncle of Mike Rafferty (http://www.thesession.org/tunes/display/221)
-S:Jack Coen
+I:tune composed Pato (Packie) Maloney of Woodford, Co Galway,
+I:an uncle of Mike Rafferty (http://www.thesession.org/tunes/display/221)
+Z:Gwen 2019-05-25 ~ version de la leçon de Cillian O'Dalaigh
 M:4/4
 L:1/8
-Q:1/2=100
+Q:1/2=80
 R:Reel
 K:Dmaj
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+| A4 A4 | A4 A4 |
 %
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+|: B2dB BAFA | B2dB BAFB | AFF/F/F DFF/F/F | AFdB ADFA |
+   B2dB BAFA | B2dB BAFB | AFAB defd | edef d2cd :|
+|: e2ef d2df | edef dBA2 | e2ef dcde | fedB ADFA |
+   e2ef dBB/B/B | gBB/B/B defg | afbf afeg | fedB ADFA :|
 %
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+|: B2dB BAFA | B2dB BAFB | AFF/F/F DFF/F/F | AFdB ADFA |
+   B2dB BAFA | B2dB BAFB | AFAB defd | edef d2cd :|
+|: e2ef d2df | edef dBA2 | e2ef dcde | fedB ADFA |
+   e2ef dBB/B/B | gBB/B/B defg | afbf afeg | fedB ADFA :|
 %
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+|: B2dB BAFA | B2dB BAFB | AFF/F/F DFF/F/F | AFdB ADFA |
+   B2dB BAFA | B2dB BAFB | AFAB defd | edef d2cd :|
+|: e2ef d2df | edef dBA2 | e2ef dcde | fedB ADFA |
+   e2ef dBB/B/B | gBB/B/B defg | afbf afeg | fedB ADFA :|
 %
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+|: B2dB BAFA | B2dB BAFB | AFF/F/F DFF/F/F | AFdB ADFA |
+   B2dB BAFA | B2dB BAFB | AFAB defd | edef d2cd :|
+|: e2ef d2df | edef dBA2 | e2ef dcde | fedB ADFA |
+   e2ef dBB/B/B | gBB/B/B defg | afbf afeg | fedB ADFA :|
 %
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+|: B2dB BAFA | B2dB BAFB | AFF/F/F DFF/F/F | AFdB ADFA |
+   B2dB BAFA | B2dB BAFB | AFAB defd | edef d2cd :|
+|: e2ef d2df | edef dBA2 | e2ef dcde | fedB ADFA |
+   e2ef dBB/B/B | gBB/B/B defg | afbf afeg | fedB ADFA :|
 %
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
+|: B2dB BAFA | B2dB BAFB | AFF/F/F DFF/F/F | AFdB ADFA |
+   B2dB BAFA | B2dB BAFB | AFAB defd | edef d2cd :|
+|: e2ef d2df | edef dBA2 | e2ef dcde | fedB ADFA |
+   e2ef dBB/B/B | gBB/B/B defg | afbf afeg | fedB ADFA :|
 %
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
-%
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
-%
-B3 B BAFA|B2 dB BAFB|A2 FA DAFA|A2dB ADFA|
-B3 B BAFA|B2 dB BAFB|AFAB defd|1 edef d2FA:|2 edef dABd ||
-e3 f d2Bd|edef dB Ad|e3 f d2de|fedB ADFA|
-e3 e e2ed|e2ef defg|a2bf afeg|fedB ADFA:|
-%
+| B8 ||
 
 X:18
 T:The Earl's Chair (partie A)
@@ -673,4 +657,39 @@ K:D
 |: fdB ABd | faa afd | geg fff | edB A2D |
    FDB AB/c/d | f2a afa | bag gae | fdc d3 :|
 
+X:23
+T:Castlerock Road
+C:Damien O'Kane
+Z:Gwen () <- Brighde Chaimbeul, Ross Ainslie & Steven Byrnes
+R:Reel
+M:2/2
+%Q:1/2=120
+Q:1/2=90
+K:D
+%%MIDI transpose 3
+| A4 A4 | A4 A4 |
+%
+|: A2AG ABdf | edef dABd | gBdg fAdf |  e2ed cBAG |
+   A3 G ABdf | edef dABd | gBdg fAdf |1 edef d2dB :|2 edef d3 f
+|: gBdg fAdf | edef dABd | gBdg fed2- | dcAG ABdf |
+   gBdg fAdf |1 edef dABd | gBdg fAdf | edef d3 f :|2
+                edef dAAA | ABde fgaf | edef d2dc ||
+|: d2af dafd | edaf dafd | ddBg dBgd | cdac dacd |
+   B2BA Bcde | f2f2 edBG | ABde fgaf |1 edef d2dc  :|2 edef d2dB
+%
+|: A2AG ABdf | edef dABd | gBdg fAdf |  e2ed cBAG |
+   A3 G ABdf | edef dABd | gBdg fAdf |1 edef d2dB :|2 edef d3 f
+|: gBdg fAdf | edef dABd | gBdg fed2- | dcAG ABdf |
+   gBdg fAdf |1 edef dABd | gBdg fAdf | edef d3 f :|2
+                edef dAAA | ABde fgaf | edef d2dc ||
+|: d2af dafd | edaf dafd | ddBg dBgd | cdac dacd |
+   B2BA Bcde | f2f2 edBG | ABde fgaf |1 edef d2dc  :|2 edef d2dB
+%
+|: A2AG ABdf | edef dABd | gBdg fAdf |  e2ed cBAG |
+   A3 G ABdf | edef dABd | gBdg fAdf |1 edef d2dB :|2 edef d3 f
+|: gBdg fAdf | edef dABd | gBdg fed2- | dcAG ABdf |
+   gBdg fAdf |1 edef dABd | gBdg fAdf | edef d3 f :|2
+                edef dAAA | ABde fgaf | edef d2dc ||
+|: d2af dafd | edaf dafd | ddBg dBgd | cdac dacd |
+   B2BA Bcde | f2f2 edBG | ABde fgaf |1 edef d2dc  :|2 edef d4
 
