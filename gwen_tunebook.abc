@@ -34,6 +34,7 @@ T:Paddy Fahey's no20
 D:Éamonn Coyne & Kris Drever: Honk Toot Suite (2006)
 R:reel
 M:2/2
+Q:1/2=98
 K:D
 |: dBAG EFGE | AAAB cdec | dcAB cdef | ggfe dfec |
    dBAG EFGE | AAAB cded | dcAB cded | cAGE DBB/B/c :| 
@@ -244,4 +245,16 @@ c>d
    e2 ec ef | g2 ga ea | g>e d2 dc |1 e>d c2 c>d :|2 e>d c2 eg ||
 |: c'2 c'2 ba | ag g2 g>a | gf f2 f>g | fe e2 eg |
    c'2 c'2 ba | ag g2 g>a | g2 g>f ef |1 g2 g2 eg :|2 g2 g2 c>d ||
+
+X:24
+T:The Old Time Wedding Reel
+R:Reel
+Z:Gwen 2021-02-04 d'après le "tune walkthrough" de Jenn Butterworth
+M:2/2
+K:Am
+%B
+|: AGEG AGEG | cdcA G2GB | A/A/Acd edcG | ABcd e2eg |
+   abag egdB | cAGA c2cd | edcA GEcE |1 D/D/DEG A2AB :|2 D/D/DEG A3g |
+|: ageg agea | gede g3 e | agea gaed | cAcd e2eg |
+   abag egdB | cAGA c2cd | edcA GEcE |1 D/D/DEG A3g :|2 D/D/DEG A3B ||
 
