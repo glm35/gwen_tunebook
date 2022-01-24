@@ -283,7 +283,7 @@ K:E
 
 X:27
 T:The Golden Eagle
-Z:Gwen 2021-01-06 d'après la leçon OAIM de Cillian O'Dallaigh
+Z:Gwen 2022-01-06 d'après la leçon OAIM de Cillian O'Dallaigh
 M:4/4
 R:Hornpipe
 Q:1/2=70
@@ -295,7 +295,7 @@ K:G
 
 X:28
 T:Dusty Windowsills
-Z:Gwen 2021-01 d'après la leçon de Jenn Butterworth
+Z:Gwen 2022-01 d'après la leçon de Jenn Butterworth
 M:6/8
 R:Jig
 K:Ador
@@ -308,7 +308,7 @@ K:Ador
 
 X:29
 T:Behind the Haystack
-Z:Gwen 2021-01-09 d'après la leçon de Jenn Butterworth
+Z:Gwen 2022-01-09 d'après la leçon de Jenn Butterworth
 M:6/8
 R:Jig
 K:D
@@ -318,4 +318,15 @@ K:D
    B3 BAF | ABc dcB | AFD DED |1 AFD DFA :|2 AFD D2f |
 |: g3 f3 | ede fdB | AFE EFE | AFE EFA |
    gbg faf | ede fdB | AFD DED |1 AFD D2f :|2 AFD D3 ||
+
+X:30
+T:Joe Tom's
+Z:Gwen 2022-01-24 d'après la leçon de Benoît Volant: https://www.youtube.com/watch?v=su4pfnFHMIg
+M:2/2
+R:Reel
+K:Edor
+|: E2BE cEBE | E2DB, A,B,DF | DEBE cEBE | d2AG FEDF |
+   E2BE cEBE | E2DB, A,B,DF | EFGA Bcde |1 f2ed cAFD :|2 f2ed cAdc |
+|: B3e fBB2 | cBAF Bcde | fbbb faaf | g2fd efga |
+   bfff afff | g2fd edcA | B2Bc dcde |1 f2ed cAdc :|2 f2ed cAFD ||
 
