@@ -279,7 +279,7 @@ K:E
 |: e3e dcBA | e2f/g/a g2fe | BABe f2BA | Befg a2ga |
    bgab c'2e2 | a3g/f/ e4 | BABf e2BA |1 Bde2 f2gf :|2 Bde2 f4 |
 |: Be=d=c B=G=G=G | AEF/=G/A Bcde | fega beee | a3f/e/ =d4 |
-   Be=d=c B=G=G=G | AEE/E/E EF=GA | BABf e2BA |1 Bde2 f4 :| Bde2 f2gf ||
+   Be=d=c B=G=G=G | AEE/E/E EF=GA | BABf e2BA |1 Bde2 f4 :|2 Bde2 f2gf ||
 
 X:27
 T:The Golden Eagle
@@ -300,7 +300,7 @@ M:6/8
 R:Jig
 K:Ador
 |: A2B cBA | eAB cBA | G2G EGG | DGG EGG |
-   A2B cBA | e2d efg | age dBG |1 BAG A2B :| BAG Ace |
+   A2B cBA | e2d efg | age dBG |1 BAG A2B :|2 BAG Ace |
 |: a3  age | def g2f | g2g gfe | dBA GFG |
    EGG DGG | EGG ABc | Bed BAG |1 BAA Ace :|2 BAA A2B |
 |: ABA gAf | ABA edB | GGG e2d | BAG edB |
@@ -343,7 +343,7 @@ K:G
    BcBA ^GBe2 | ABAG FAd2 | (3 efg fe dcBA |1 (3 GFG BA G2FG :|2 (3 GFG BA G2 (3 DEF ||
 
 X:32
-T:The Earl's Chair
+T:The Earl's Chair (v2)
 Z:Gwen 2020-02-12 d'après Benoît Volant (https://www.youtube.com/watch?v=RL6To80Nzxc)
 M:2/2
 R:Reel
@@ -362,20 +362,20 @@ Q:1/2=60
 R:Reel
 K:G
 |: D2FA B3d | feed BAFE | D2FA B2dB | AFDF E/F/GFE |
-   D2FA f2af | edfe dBAd |1 f2ed BddB | AFEF D2D/E/D :| f2ed BedB | AFEF D2ed |
+   D2FA f2af | edfe dBAd |1 f2ed BddB | AFEF D2D/E/D :|2 f2ed BedB | AFEF D2ed |
 |: f2ed adfd | def/e/d BdA2 | f2ed adfd | ABBA B2de |
    f2ed adfd | def/e/d BdA2 |1 f2ed BddB | AFEF D2ed :|2 f2ed BedB | AFEF D2dB |
 |: ADD/D/D D2FA | BAFA f2af | edfe dBAd | f2ed BAFE |
-   D3E FEDF | A2FA f2af | e3d fedB |1 AFEF D2dB :| AFEF D4 ||
+   D3E FEDF | A2FA f2af | e3d fedB |1 AFEF D2dB :|2 AFEF D4 ||
 
 X:34
 T:The Ben Kenneth Reel
 C:Mìcheal Steele
 Z:Gwen 2022-03-13
 H:As played by AiliS Sutherland
-+:during "The New Tradition: Rejuvenation" concert
-+:at Celtic Connections 2022 festival.
-+:Composed by Mìcheal Steele from South Uist
+%+:during "The New Tradition: Rejuvenation" concert
+%+:at Celtic Connections 2022 festival.
+%+:Composed by Mìcheal Steele from South Uist
 D:Beinn Lee: Osgarra (2018)
 N:2e tune de la 1ère suite "Rills"
 M:2/2
