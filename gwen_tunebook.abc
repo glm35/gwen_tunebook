@@ -394,9 +394,9 @@ M:6/8
 R:Jig
 K:D
 |: FAd f3 | afe dBA | B2B BAB | dAF E3 |
-   FAd f3 | afe dBA | Bde fdB |1 AFE D3 :|  AFE D2e :|
+   FAd f3 | afe dBA | Bde fdB |1 AFE D3 :|2 AFE D2e :|
 |: fdB A2A | DFA def | gef ged | cBA gfe |
-   fdB A2A | DFA def | g2g age |1 edc d2e :| edc d3 |
+   fdB A2A | DFA def | g2g age |1 edc d2e :|2 edc d3 |
 |: Adf a3 | agf agf | Ace g3 | gfe gfe |
    f2f gfg | a3 bag | faf gec | edc d3 :|
 
